@@ -1,5 +1,5 @@
 // const checkForSpam = function(message) {
-//   const normalizeMessage = message.toLowerCase().split(' ');
+//   const normalizeMessage = message.toLowerCase();
 
 //   return (
 //     normalizeMessage.includes('[spam]') || normalizeMessage.includes('sale')
